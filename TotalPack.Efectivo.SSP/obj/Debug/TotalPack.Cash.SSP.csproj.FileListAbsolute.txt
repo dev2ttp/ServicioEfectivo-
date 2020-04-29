@@ -1,0 +1,7 @@
+E:\Proyectos\Totalpack\Efectivo\TPpagoL2\TotalPack.Cash.SSP\obj\Debug\TotalPack.Cash.SSP.csprojResolveAssemblyReference.cache
+E:\Proyectos\Totalpack\Efectivo\TPpagoL2\TotalPack.Cash.SSP\bin\Debug\TotalPack.Cash.SSP.dll
+E:\Proyectos\Totalpack\Efectivo\TPpagoL2\TotalPack.Cash.SSP\bin\Debug\TotalPack.Cash.SSP.pdb
+E:\Proyectos\Totalpack\Efectivo\TPpagoL2\TotalPack.Cash.SSP\bin\Debug\log4net.dll
+E:\Proyectos\Totalpack\Efectivo\TPpagoL2\TotalPack.Cash.SSP\bin\Debug\log4net.xml
+E:\Proyectos\Totalpack\Efectivo\TPpagoL2\TotalPack.Cash.SSP\obj\Debug\TotalPack.Cash.SSP.dll
+E:\Proyectos\Totalpack\Efectivo\TPpagoL2\TotalPack.Cash.SSP\obj\Debug\TotalPack.Cash.SSP.pdb

@@ -1,0 +1,109 @@
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Locker.ControlBoard.dll
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Locker.ControlBoard.pdb
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojResolveAssemblyReference.cache
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CoreCompileInputs.cache
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+D:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojResolveAssemblyReference.cache
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojAssemblyReference.cache
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CoreCompileInputs.cache
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CopyComplete
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\Ejecutables_Antiguos_Tomtem_Arriba\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\HidLibrary.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojAssemblyReference.cache
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CoreCompileInputs.cache
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CopyComplete
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CoreCompileInputs.cache
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CopyComplete
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojAssemblyReference.cache
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CopyComplete
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\QA\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojAssemblyReference.cache
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojAssemblyReference.cache
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CopyComplete
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\Efectivo 1.1.0\TotalPack.Efectivo\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\HidLibrary.dll
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CopyComplete
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\ttp\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojAssemblyReference.cache
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\HidLibrary.dll
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojAssemblyReference.cache
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CopyComplete
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\Kiosko\Desktop\efectivo pandemia\ServicioPago2_Version_1.1.0\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll.config
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\TotalPack.Efectivo.SSP.pdb
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\HidLibrary.dll
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\log4net.dll
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\log4net.xml
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csprojAssemblyReference.cache
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.csproj.CopyComplete
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.dll
+C:\Users\Kiosko\Desktop\ServicioPago2_Version_1.1.0\ServicioPagoEfectivo2-Servicio_Pago2_Version_1.1.0\TotalPack.Efectivo.SSP\obj\Debug\TotalPack.Efectivo.SSP.pdb

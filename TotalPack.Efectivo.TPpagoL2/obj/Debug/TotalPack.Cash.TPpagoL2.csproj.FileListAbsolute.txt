@@ -1,0 +1,2 @@
+E:\Proyectos\Totalpack\Efectivo\TotalPack.TPpagoL2\TotalPack.Cash.TPpagoL2\bin\Debug\TotalPack.Cash.TPpagoL2.exe.config
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Cash\TotalPack.Cash.TPpagoL2\bin\Debug\TotalPack.Cash.TPpagoL2.exe.config

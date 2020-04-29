@@ -1,0 +1,2 @@
+E:\Proyectos\Totalpack\Efectivo\TPpagoL2\TPpagoL2\bin\Debug\TPpagoL2.exe.config
+E:\Proyectos\Totalpack\Efectivo\TPpagoL2\TPpagoL2\obj\Debug\TPpagoL2.csprojResolveAssemblyReference.cache
